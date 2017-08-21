@@ -1,0 +1,2 @@
+first doc to practice git flow. 
+Understanding git commits
